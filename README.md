@@ -592,7 +592,8 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for 
 
 <div align="center">
 
-### 🎊 **Made with ❤️ by Mwaki Denis**
+### 🎊 **Made with ❤️ by Mwaki Denis**[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow)](https://wa.me/254798750585)
+
 
 **EventTribe Kenya** - *Connecting Communities Through Events*
 
