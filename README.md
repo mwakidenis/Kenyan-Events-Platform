@@ -522,7 +522,7 @@ const channel = supabase
 We welcome contributions! Here's how:
 
 ### Ways to Contribute
-1. 🐛 Report bugs via [Issues](https://github.com/lewiii254/event-tribe-kenya/issues)
+1. 🐛 Report bugs via [Issues](https://github.com/mwakidenis/event-tribe-kenya/issues)
 2. 💡 Suggest features
 3. 📖 Improve documentation
 4. 🔧 Submit pull requests
@@ -532,7 +532,7 @@ We welcome contributions! Here's how:
 
 ```bash
 # Fork and clone
-git clone https://github.com/YOUR_USERNAME/event-tribe-kenya.git
+git clone https://github.com/mwakidenis/Kenyan-Events-Platform.git
 
 # Create feature branch
 git checkout -b feature/amazing-feature
@@ -570,8 +570,8 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for 
 
 ### Get Help
 - 📧 **Email**: support@eventtribekenya.com
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/lewiii254/event-tribe-kenya/discussions)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/lewiii254/event-tribe-kenya/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/mwakidenis/event-tribe-kenya/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/mwakidenis/event-tribe-kenya/issues)
 
 ### Community
 - 🐦 **Twitter**: [@EventTribeKE](https://twitter.com/EventTribeKE)
