@@ -11,7 +11,7 @@
 
 **🚀 Discover · 🎫 Book · 📊 Manage · 🎉 Celebrate**
 
-[Live Demo](https://event-tribe-kenya.vercel.app/) · [Report Bug](https://github.com/lewiii254/event-tribe-kenya/issues) · [Request Feature](https://github.com/lewiii254/event-tribe-kenya/issues)
+[Live Demo](https://event-tribe-kenya.vercel.app/) · [Report Bug](https://github.com/mwakidenis/event-tribe-kenya/issues) · [Request Feature](https://github.com/mwakidenis/event-tribe-kenya/issues)
 
 </div>
 
